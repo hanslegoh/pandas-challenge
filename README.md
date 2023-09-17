@@ -3,7 +3,7 @@
 
 ## Code Sources and Locations:
 - Starter code - from `PyCitySchools_starter.ipynb`
-- Cell 11 **{first() method}** - From `pandas.pydata.org`
+- Cell 11 {**first() method**} - From `pandas.pydata.org`
 - Cell 19 {**concat() function**} - From `stackoverflow.com` and `pandas.pydata.org`
 - Cells 20 and 21 {**sort_values() method**} - From `sorting_data_solution.ipynb`
 - Cell 25 {**lambda x: str(x)[1:-3] arg**} - From  `stackoverflow.com`
